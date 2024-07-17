@@ -47,12 +47,13 @@ body {
 }
 .nav-bar ul li a {
     color:#fff;
-    margin:0px 20px;
+    display:block;
+    padding:15px;
 }
 .nav-bar ul li a:hover,
 .nav-bar ul li a.current {
-    /* background-color: #666; */
     color:#f7c08a;
+    background-color: #444;
 }
 /* showcase */
 .showcase {
