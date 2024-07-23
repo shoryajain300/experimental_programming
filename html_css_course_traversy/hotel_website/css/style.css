@@ -107,6 +107,7 @@ ul {
     font-size: 3.7rem;
     padding-top:10px;
     padding-bottom: 20px;
+    line-height: 1.2;
 }
 .hotel-info p {
     margin-bottom: 40px;
@@ -179,6 +180,7 @@ ul {
 .about-hotel-text h1{
     font-size:2.5rem;
     margin-bottom: 1rem;
+    line-height: 1.2;
 }
 .about-hotel-img {
     flex-basis: 50vw;
@@ -204,6 +206,7 @@ ul {
     color:white;
     font-size: 2.5rem;
     margin-bottom: 1rem;
+    line-height:1.2;
 }
 .feedback-card {
     padding: 2rem 1rem;

@@ -1,0 +1,34 @@
+#nav-bar h1 {
+    float:none;
+    text-align:center;
+}
+
+#nav-bar ul,
+#nav-bar ul li {
+    float:none;
+    text-align:center;
+    border-bottom: 1px #ddd dotted;
+}
+
+.hotel-info {
+    height: 60vh;
+    padding-top:3rem;
+}
+.hotel-history-img {
+    display: none;
+}
+#hotel-features {
+    display:block;
+}
+
+.about-hotel {
+    display:block;
+}
+.about-hotel-text {
+    text-align:center;
+}
+#contact-info {
+    display:block;
+    padding-top: 20px;
+    text-align:center;
+}
